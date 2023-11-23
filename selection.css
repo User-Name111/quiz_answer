@@ -1,0 +1,24 @@
+
+.stats-container {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 10px;
+}
+
+.stats-item {
+    margin-right: 20px;
+}
+
+.stats-item p {
+    margin: 0;
+    display: inline;
+}
+
+.correct-answer {
+    margin-left: 20px;
+}
+
+.lower-correct-rate {
+    font-weight: bold;
+    color: red;
+}
